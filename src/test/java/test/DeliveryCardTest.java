@@ -1,4 +1,4 @@
-package Test;
+package test;
 
 import Data.DataGenerator;
 import org.junit.jupiter.api.BeforeEach;
